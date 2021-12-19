@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/57865517/laravel-6-0-php-artisan-routelist-returns-target-class-app-http-controllers-s/63747423#63747423
+
+In my case it was solved by running
+
+php artisan optimize:clear
+php artisan config:cache
+The optimize:clearcommands clears everything

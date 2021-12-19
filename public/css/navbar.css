@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=PT+Sans&family=Viga&display=swap");
+
+.navbar .navbar-brand {
+    font-family: "Viga", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.container {
+    font-family: "PT Sans", sans-serif;
+}
